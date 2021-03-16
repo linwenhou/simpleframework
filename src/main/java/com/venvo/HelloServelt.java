@@ -29,7 +29,7 @@ public class HelloServelt extends HttpServlet {
 
     @Override
     public void init() {
-        System.out.println("初始化Servlet..");
+        System.out.println("初始化Servlet....");
 
     }
 
